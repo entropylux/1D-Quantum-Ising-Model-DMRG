@@ -4,5 +4,5 @@
 
 ## Hamiltonian
 $$
-\hat{H} = -J\sum_{i} \hat{S}_{i}^{z}\hat{S}_{i+1}^{z} + g\sum_{i} \hat{S}_{i}^{x}
+H = J \sum_{i=1} \sigma_i^z \sigma_{i+1}^z + g \sum_{i=1} \sigma_i^x
 $$
